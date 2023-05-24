@@ -1,5 +1,5 @@
-# chat-gpt
-Cách dùng chat GPT
+# CHAT-GPT
+Playground with GPT
 
 
 ## Case 1: Tóm tắt nội dung
@@ -13,14 +13,14 @@ Cách dùng chat GPT
 - "Teach me" + "môn bạn muốn học" + "step by step"
 - Bạn có thể nhờ giải GPT giải toán hay chấm điểm
 
-## Case 3: bác sĩ GPT (lưu ý: chỉ tham khảo lời khuyên, mặc dù kiến thức của GPT có thể hơn các bác sĩ thực)
+## Case 3: Bác sĩ GPT (lưu ý: chỉ tham khảo lời khuyên, mặc dù kiến thức của GPT có thể hơn các bác sĩ thực)
 - Hỏi về các loại bệnh, cách phòng ngừa
 - Hỏi cách giảm cân
 - Thực đơn healthy
 - Cách chế biến
 - ...
 
-## Case 4: chọn phong cách trả lời cho GPT (Multi-Identity)
+## Case 4: Chọn phong cách trả lời cho GPT (Multi-Identity)
 - Bạn có thể hoạc cho GPT học phong cách trả lời của bạn hay của bất kỳ ai bằng cách cung cấp cho GPT một đoạn văn hay một email
 - Hoặc nhờ GPT viết lại email theo email mẫu nào đó
 
@@ -44,4 +44,14 @@ Cách dùng chat GPT
 
 ## Case 8: Chơi game với GPT
 - "What game can I play with you"
-- Choose a game
+- "Let's play Trivia about ...(subject)"
+
+## Case 9: Muốn GPT trả lời chi tiết hơn
+- "Please more detail" or "why"
+- "Keep going" or "continue" or "go up"
+
+## Case 10: Viết code bằng GPT
+- Ghi hàm hay chức năng với ngôn ngữ bạn mong muốn
+
+
+## Continue ...
